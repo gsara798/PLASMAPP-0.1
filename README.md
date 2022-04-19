@@ -1,4 +1,4 @@
-# PLASMAPP - Particle-in-cell simulations
+# PLASMAPP: One-dimensional electrostatic particle-in-cell simulations 
 Authors: Sara Gómez from Universidad EAFIT, and Jaime Humberto Hoyos from Universidad de Medellín.
 
 App developed in MATLAB App Designer for electrostatic 1D particle-in-cell simulations.
