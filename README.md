@@ -1,7 +1,7 @@
 # PLASMAPP-0.1
 Authors: Sara Gómez from Universidad EAFIT, and Jaime Humberto Hoyos from Universidad de Medellín.
 
-App developed in MATLAB App Designer for electrostatic 1D particle-in-cell simulations. These codes are based on the work of Giovanni Lapenta from K.U.Leuven.
+App developed in MATLAB App Designer for electrostatic 1D particle-in-cell simulations.
 
 If you want to install PlasmAPP, you can follow these steps:
 
