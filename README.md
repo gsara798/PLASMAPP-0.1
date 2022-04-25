@@ -1,7 +1,7 @@
 # PLASMAPP: One-dimensional electrostatic particle-in-cell simulations 
 Authors: Sara Gómez from Universidad EAFIT, and Jaime Humberto Hoyos from Universidad de Medellín.
 
-App developed in MATLAB App Designer for electrostatic 1D particle-in-cell simulations.
+App developed in MATLAB App Designer for electrostatic 1D particle-in-cell simulations. The PIC algorithm is based on the work of Giovanni Lapenta from K.U.Leuven.
 
 If you want to install PlasmAPP, you can follow these steps:
 
